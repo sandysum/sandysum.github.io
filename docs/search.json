@@ -25,7 +25,7 @@
     "href": "index.html",
     "title": "Sandy Sum",
     "section": "",
-    "text": "I am a PhD student in economics and environmental science at the University of California, Santa Barbara.\nMy research investigates how environmental change and policies shape and is shaped by patterns of social and economic inequalities. My recent projects have been centered on equity issues arising from water scarcity in California.\nEmail: sandysum@ucsb.edu\nAdvisor: Tamma Carleton\nCommittee: Kyle Meng, Olivier Deschênes"
+    "text": "I am a PhD student in economics and environmental science at the University of California, Santa Barbara.\nMy research investigates how environmental change and policies shape and is shaped by patterns of social and economic inequalities. My recent projects have been centered on equity issues arising from water scarcity in California.\nEmail: sandysum@ucsb.edu\nAdvisor: Tamma Carleton\nCommittee: Olivier Deschênes, Kyle Meng"
   },
   {
     "objectID": "cv/index.html",
@@ -39,7 +39,7 @@
     "href": "index.html#working-papers",
     "title": "Sandy Sum",
     "section": "Working papers",
-    "text": "Working papers\nThe distributional effects of water markets under factor-biased crop switching\nSum, Sandy (2023)\n\nCalifornia droughts disproportionately worsen drinking water quality for Latino communities\nSum, Sandy (under review, 2023)\n\nParameter recovery with remotely sensed variables\n\nProctor*, J., T. Carleton*, and S. Sum* (under review, 2023)\n(*indicates equal contribution; author order randomized)\nEquitable low-carbon transition pathways for California’s oil extraction\nwith emLab (2023)\nAccepted at Nature Energy"
+    "text": "Working papers\nThe distributional effects of water markets under factor-biased structural change\nSum, Sandy (2023)\n\nCalifornia droughts disproportionately worsen drinking water quality for Latino communities\nSum, Sandy (under review, 2023)\n\nParameter recovery with remotely sensed variables\n\nJonathan Proctor, Tamma Carleton*, and Sandy Sum* (under review, 2023)\n\n(*indicates equal contribution)\nEquitable low-carbon transition pathways for California’s oil extraction\nwith emLab (2023)\nAccepted at Nature Energy"
   },
   {
     "objectID": "index.html#invited-presentation-and-workshops",
@@ -65,8 +65,15 @@
   {
     "objectID": "teaching/index.html",
     "href": "teaching/index.html",
-    "title": "teaching",
+    "title": "Sandy Sum",
     "section": "",
-    "text": "Teaching Assistant, University of California, Santa Barbara\nEconomics of Environmental Management (ESM 204), 2022-2023\nProfs. Christopher Costello and Tamma Carleton\nStatistics for Environmental Data Science (EDS 222), 2022\nProf. Tamma Carleton\nEnvironmental Economics (ECON 115), 2022\nProf. Kyle Meng."
+    "text": "Teaching Assistant, University of California, Santa Barbara\nEconomics of Environmental Management (ESM 204), 2022-2023\nProfs. Christopher Costello and Tamma Carleton\nStatistics for Environmental Data Science (EDS 222), 2022\nProf. Tamma Carleton\nEnvironmental Economics (ECON 115), 2022\nProf. Kyle Meng"
+  },
+  {
+    "objectID": "index.html#works-in-progress",
+    "href": "index.html#works-in-progress",
+    "title": "Sandy Sum",
+    "section": "Works in progress",
+    "text": "Works in progress\nLabor Market Impacts of Immigration Restrictions in the US\nRuth Morales*, Jimena Rico Straffron*, and Sandy Sum* (2022) \n\n(*indicates equal contribution; author order randomized)"
   }
 ]

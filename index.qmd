@@ -29,7 +29,7 @@ Email: [sandysum@ucsb.edu](mailto:sandysum@ucsb.edu)
 
 Advisor: Tamma Carleton
 
-Committee: Kyle Meng, Olivier Deschênes
+Committee: Olivier Deschênes, Kyle Meng
 
 
 ## Working papers
@@ -44,16 +44,27 @@ Committee: Kyle Meng, Olivier Deschênes
 
 [**Parameter recovery with remotely sensed variables**](https://www.nber.org/papers/w30861)\
 
-<font size="2">Proctor\*, J., T. Carleton\*, and **S. Sum**\* (under review, 2023)</font>\
-<font size="2">(\*indicates equal contribution; author order randomized)</font>
+<font size="2">Jonathan Proctor, Tamma Carleton\*, and **Sandy Sum**\* (under review, 2023)</font>\
+
+<font size="2">(\*indicates equal contribution)</font>
 
 **Equitable low-carbon transition pathways for California's oil extraction**
 
 <font size="2">with [emLab](https://emlab.ucsb.edu/) (2023)</font>\
 <font size="2">Accepted at Nature Energy</font>\
 
+## Works in progress
+
+**Labor Market Impacts of Immigration Restrictions in the US**
+
+<font size="2">Ruth Morales\*, Jimena Rico Straffron\*, and Sandy Sum\* (2022) </font>\
+
+<font size="2">(\*indicates equal contribution; author order randomized)</font>
+
 ## Policy reports
 
 [**Enhancing equity while eliminating emissions in California's supply of transportation fuels**](https://www.google.com/url?q=https%3A%2F%2Fwww.dropbox.com%2Fs%2F6w4hrztnb8r7xe7%2FCA-CN-Study-2-Final-Report-0421.pdf%3Fdl%3D1&sa=D&sntz=1&usg=AOvVaw3pv7JBOJLm767dL8jnrE4o)
 
 <font size="2">[CalEPA report](https://emlab.ucsb.edu/projects/identifying-equitable-pathways-reach-carbon-neutrality-californias-transportation-sector) with [emLab](https://emlab.ucsb.edu/) (2021)</font>\
+
+
