@@ -6,12 +6,12 @@ website:
   description: " "   # A brief slogan (optional)
   image: ss.png
   
-  favicon: img/favicon.png
+  favicon: img/logo.jpeg
   
   # start of the navigation bar at the top of the website
   navbar:
     pinned: true
-    logo: /img/logo.png
+    logo: /img/logo.jpeg
     
     # your sub-pages
     left:
