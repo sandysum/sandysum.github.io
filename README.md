@@ -1,5 +1,13 @@
-# Sandy Sum
+# Quarto Template for the Tutorial
 
+This repository contains the template for the website tutorial at <https://www.marvinschmitt.com/blog/website-tutorial-quarto/>.
 
-
-I am a PhD student in economics and environmental science at the University of California, Santa Barbara. I study the effects of environmental change and policies on social wellbeing and inequality. I am particularly interested in how climate action may interact with existing social, political, and health disparities. My research centers on the issue of water scarcity in California.
+<p align="center">
+  <img src="img/website_template_screenshot_1.png" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="img/website_template_screenshot_2.png" width="45%">
+<br/><br/>
+  <img src="img/website_template_screenshot_3.png" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="img/website_template_screenshot_4.png" width="45%">
+</p>
