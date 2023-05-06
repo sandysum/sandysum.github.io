@@ -6,33 +6,33 @@ website:
   description: " "   # A brief slogan (optional)
   image: ss.png
   
-  favicon: img/favicon.png
+  # favicon: img/favicon.png
   
   # start of the navigation bar at the top of the website
-  navbar:
-    pinned: true
-    logo: /img/logo.png
+  # navbar:
+  #   pinned: true
+  #   logo: /img/logo.png
     
     # your sub-pages
-    left:
-      - text: "Working paper"
-        href: projects/index.qmd
+    # left:
+    #   - text: "Working paper"
+    #     href: projects/index.qmd
       # - text: "Photography"
       #   href: photography/index.qmd
-      - text: "CV"
-        href: cv/index.qmd
+      # - text: "CV"
+      #   href: cv/index.qmd
     
     # your social media handles
-    right:
+    # right:
       # - icon: folder-symlink
       #   href: https://www.marvinschmitt.com/blog/website-tutorial-quarto/
       # - icon: twitter
       #   href: https://twitter.com/MarvinSchmittML
       # - icon: linkedin
       #   href: https://www.linkedin.com/in/marvin-schmitt-a85b321a2/
-      - icon: envelope
-        aria-label: email
-        href: "mailto:sandysum@ucsb.edu"  
+      # - icon: envelope
+      #   aria-label: email
+      #   href: "mailto:sandysum@ucsb.edu"  
   
   
 
