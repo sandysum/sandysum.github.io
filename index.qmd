@@ -21,59 +21,39 @@ about:
 ::: {#about-block}
 :::
 
-I am a PhD student in economics and environmental science at the University of California, Santa Barbara.   
+I am a PhD student in economics and environmental science at the University of California, Santa Barbara.
 
-My research investigates how environmental change and policies shape and is shaped by existing patterns of social and economic disparities. My recent projects have been centered on equity issues arising from water scarcity in California.
+My research investigates how environmental change and policies shape and is shaped by patterns of social and economic inequalities. My recent projects have been centered on equity issues arising from water scarcity in California.
+
+Email: [sandysum@ucsb.edu](mailto:sandysum@ucsb.edu)
+
+Advisor: Tamma Carleton
+
+Committee: Kyle Meng, Olivier Deschênes
+
 
 ## Working papers
 
-**The distributional effects of water market under factor biased crop adoption**
+**The distributional effects of water markets under factor-biased crop switching**
 
-**Sum, Sandy** (2023)
+<font size="2">**Sum, Sandy** (2023)</font>\
 
 **California droughts disproportionately worsen drinking water quality for Latino communities**
 
-**Sum, Sandy** (under review, 2023)
+<font size="2">**Sum, Sandy** (under review, 2023)</font>\
 
-**[Parameter recovery with remotely sensed variables](https://www.nber.org/papers/w30861)**
+[**Parameter recovery with remotely sensed variables**](https://www.nber.org/papers/w30861)\
 
-Proctor\*, J.,  T. Carleton\*, and **S. Sum**\* (under review, 2023) 
+<font size="2">Proctor\*, J., T. Carleton\*, and **S. Sum**\* (under review, 2023)</font>\
+<font size="2">(\*indicates equal contribution; author order randomized)</font>
 
-(*indicates equal contribution; author order randomized)
+**Equitable low-carbon transition pathways for California's oil extraction**
 
-**Equitable low-carbon transition pathways for California’s oil extraction**
-
-with [emLab](https://emlab.ucsb.edu/) (2023)
-
-Accepted at Nature Energy
+<font size="2">with [emLab](https://emlab.ucsb.edu/) (2023)</font>\
+<font size="2">Accepted at Nature Energy</font>\
 
 ## Policy reports
 
-**[Enhancing equity while eliminating emissions in California's supply of transportation fuels](https://www.google.com/url?q=https%3A%2F%2Fwww.dropbox.com%2Fs%2F6w4hrztnb8r7xe7%2FCA-CN-Study-2-Final-Report-0421.pdf%3Fdl%3D1&sa=D&sntz=1&usg=AOvVaw3pv7JBOJLm767dL8jnrE4o)**
+[**Enhancing equity while eliminating emissions in California's supply of transportation fuels**](https://www.google.com/url?q=https%3A%2F%2Fwww.dropbox.com%2Fs%2F6w4hrztnb8r7xe7%2FCA-CN-Study-2-Final-Report-0421.pdf%3Fdl%3D1&sa=D&sntz=1&usg=AOvVaw3pv7JBOJLm767dL8jnrE4o)
 
-[CalEPA report](https://emlab.ucsb.edu/projects/identifying-equitable-pathways-reach-carbon-neutrality-californias-transportation-sector) with [emLab](https://emlab.ucsb.edu/) (2021)
-
-## Invited Presentation and Workshops
-
-- UCSB Bren School Symposium (April 2021)
-- Interdisciplinary PhD Workshop on Sustainable Development at Columbia University (April 2022)
-- Annual Environmental Justice Symposium at the Bren School, UCSB (May 2022)
-- Berkeley/Sloan Summer School in Environmental and Energy Economics (August 2022)
-- Social Cost of Water Pollution Workshop at Cornell Atkinson Center for Sustainability & US EPA (September 2022) 
-- The Workshop in Environmental Economics and Data science at the University of Oregon (October 2022)
-- UCSB Bren School Symposium (April 2023)
-- The Occasional Workshop at UC Santa Barbara (April 2023)
-
-## Teaching
-
-**Teaching Assistant, University of California, Santa Barbara**
-
-**Economics of Environmental Management (ESM 204), 2022-2023**, Profs. Christopher Costello and Tamma Carleton.
-
-**Statistics for Environmental Data Science (EDS 222), 2022**, Prof. Tamma Carleton.
-
-**Environmental Economics (ECON 115), 2022**, Prof. Kyle Meng.
-
-
-
-
+<font size="2">[CalEPA report](https://emlab.ucsb.edu/projects/identifying-equitable-pathways-reach-carbon-neutrality-californias-transportation-sector) with [emLab](https://emlab.ucsb.edu/) (2021)</font>\

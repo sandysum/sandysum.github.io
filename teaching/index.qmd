@@ -1,0 +1,17 @@
+---
+title: teaching
+---
+
+##### Teaching Assistant, University of California, Santa Barbara
+
+**Economics of Environmental Management (ESM 204), 2022-2023**  
+
+<font size="2">Profs. Christopher Costello and Tamma Carleton</font>
+
+**Statistics for Environmental Data Science (EDS 222), 2022**  
+
+<font size="2">Prof. Tamma Carleton</font>
+
+**Environmental Economics (ECON 115), 2022**  
+
+<font size="2">Prof. Kyle Meng.</font>

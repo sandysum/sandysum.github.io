@@ -2,9 +2,9 @@
   {
     "objectID": "projects/index.html",
     "href": "projects/index.html",
-    "title": "Projects",
+    "title": "Invited presentations and workshops",
     "section": "",
-    "text": "arXiv Preprint | Code\nOver the centuries, I have devoted countless hours to deciphering and translating the ancient scripts and dialects of the various peoples of Middle-earth. My goal is to gain a deeper understanding of the cultures and histories of these peoples by studying their languages. Currently, I am working on a monograph that explores the linguistic roots of the Elvish languages. Through extensive research and analysis, I hope to shed light on the connections between the different dialects of Elvish and their origins. This project has been particularly challenging, as Elvish is a complex and nuanced language, but I am determined to see it through to completion."
+    "text": "UCSB Bren School Symposium (April 2021)\nInterdisciplinary PhD Workshop on Sustainable Development at Columbia University (April 2022)\nAnnual Environmental Justice Symposium at the Bren School, UCSB (May 2022)\nBerkeley/Sloan Summer School in Environmental and Energy Economics (August 2022)\nSocial Cost of Water Pollution Workshop at Cornell Atkinson Center for Sustainability & US EPA (September 2022)\nThe Workshop in Environmental Economics and Data science at the University of Oregon (October 2022)\nUCSB Bren School Symposium (April 2023)\nThe Occasional Workshop at UC Santa Barbara (April 2023)"
   },
   {
     "objectID": "projects/index.html#the-history-of-the-war-of-the-ring",
@@ -25,7 +25,7 @@
     "href": "index.html",
     "title": "Sandy Sum",
     "section": "",
-    "text": "I am a PhD student in economics and environmental science at the University of California, Santa Barbara.\nMy research investigates how environmental change and policies shape and is shaped by existing patterns of social and economic disparities. My recent projects have been centered on equity issues arising from water scarcity in California."
+    "text": "I am a PhD student in economics and environmental science at the University of California, Santa Barbara.\nMy research investigates how environmental change and policies shape and is shaped by patterns of social and economic inequalities. My recent projects have been centered on equity issues arising from water scarcity in California.\nEmail: sandysum@ucsb.edu\nAdvisor: Tamma Carleton\nCommittee: Kyle Meng, Olivier Deschênes"
   },
   {
     "objectID": "cv/index.html",
@@ -39,7 +39,7 @@
     "href": "index.html#working-papers",
     "title": "Sandy Sum",
     "section": "Working papers",
-    "text": "Working papers\nThe distributional effects of water market under factor biased crop adoption\nSum, Sandy (2023)\nCalifornia droughts disproportionately worsen drinking water quality for Latino communities\nSum, Sandy (under review, 2023)\nParameter recovery with remotely sensed variables\nProctor*, J., T. Carleton*, and S. Sum* (under review, 2023)\n(*indicates equal contribution; author order randomized)\nEquitable low-carbon transition pathways for California’s oil extraction\nwith emLab (2023)\nAccepted at Nature Energy"
+    "text": "Working papers\nThe distributional effects of water markets under factor-biased crop switching\nSum, Sandy (2023)\n\nCalifornia droughts disproportionately worsen drinking water quality for Latino communities\nSum, Sandy (under review, 2023)\n\nParameter recovery with remotely sensed variables\n\nProctor*, J., T. Carleton*, and S. Sum* (under review, 2023)\n(*indicates equal contribution; author order randomized)\nEquitable low-carbon transition pathways for California’s oil extraction\nwith emLab (2023)\nAccepted at Nature Energy"
   },
   {
     "objectID": "index.html#invited-presentation-and-workshops",
@@ -61,5 +61,12 @@
     "title": "Sandy Sum",
     "section": "Policy reports",
     "text": "Policy reports\nEnhancing equity while eliminating emissions in California’s supply of transportation fuels\nCalEPA report with emLab (2021)"
+  },
+  {
+    "objectID": "teaching/index.html",
+    "href": "teaching/index.html",
+    "title": "teaching",
+    "section": "",
+    "text": "Teaching Assistant, University of California, Santa Barbara\nEconomics of Environmental Management (ESM 204), 2022-2023\nProfs. Christopher Costello and Tamma Carleton\nStatistics for Environmental Data Science (EDS 222), 2022\nProf. Tamma Carleton\nEnvironmental Economics (ECON 115), 2022\nProf. Kyle Meng."
   }
 ]
