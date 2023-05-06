@@ -1,0 +1,26 @@
+---
+about:
+  template: jolla
+  id: about-block
+  image: "img/ss.png"
+  # links:
+  #   - icon: twitter
+  #     text: Twitter
+  #     href: https://twitter.com/MarvinSchmittML
+  #   - icon: github
+  #     text: Github
+  #     href: https://github.com/marvinschmitt
+  #   - icon: linkedin
+  #     text: LinkedIn
+  #     href: https://www.linkedin.com/in/marvin-schmitt-a85b321a2/
+  #   - icon: envelope
+  #     text: Email
+  #     href: "mailto:sandysum"  
+---
+
+::: {#about-block}
+:::
+
+I am a PhD student in economics and environmental science at the University of California, Santa Barbara.   
+I study the effects of environmental change and policies on social wellbeing and inequality. I am particularly interested in how societal responses to climate change interact with existing social, political, and health disparities. My research centers on the issue of water scarcity in California.
+
