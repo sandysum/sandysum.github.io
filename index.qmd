@@ -29,27 +29,28 @@ Email: [sandysum@ucsb.edu](mailto:sandysum@ucsb.edu)
 
 Advisor: Tamma Carleton
 
-Committee: Olivier Deschênes, Kyle Meng
-
+Committee: Chris Costello, Olivier Deschênes, Kyle Meng
 
 ## Working papers
 
-**The distributional effects of water markets under factor-biased structural change**
+**Water markets and labor effects**
 
 <font size="2">**Sandy Sum and Anna Boser** (2023)</font>\
 
-**California droughts disproportionately worsen drinking water quality for Latino communities**
+**Droughts worsen drinking water disparities in California**
 
-<font size="2">**Sum, Sandy** (under review, 2023)</font>\
+<font size="2">**Sandy Sum** (2023)</font>\
 
 [**Parameter recovery with remotely sensed variables**](https://www.nber.org/papers/w30861)\
 
 <font size="2">Jonathan Proctor\*, Tamma Carleton\*, and **Sandy Sum**\* (under review, 2023)</font>\
 
-**Equitable low-carbon transition pathways for California's oil extraction**
+## Publications
+
+[**Well setbacks limit California’s oil supply with larger health benefits and employment losses than excise and carbon taxes**](https://www.nature.com/articles/s41560-023-01273-0)
 
 <font size="2">with [emLab](https://emlab.ucsb.edu/) (2023)</font>\
-<font size="2">Accepted at Nature Energy</font>\
+<font size="2">Nature Energy</font>\
 
 ## Works in progress
 
