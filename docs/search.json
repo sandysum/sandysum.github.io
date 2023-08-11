@@ -25,7 +25,7 @@
     "href": "index.html",
     "title": "Sandy Sum",
     "section": "",
-    "text": "I am a PhD student in economics and environmental science at the University of California, Santa Barbara.\nMy research investigates how environmental change and policies shape and is shaped by patterns of social and economic inequalities. My recent projects have been centered on equity issues arising from water scarcity in California.\nEmail: sandysum@ucsb.edu\nAdvisor: Tamma Carleton\nCommittee: Olivier Deschênes, Kyle Meng"
+    "text": "I am a PhD student in economics and environmental science at the University of California, Santa Barbara.\nMy research investigates how environmental change and policies shape and is shaped by patterns of social and economic inequalities. My recent projects have been centered on equity issues arising from water scarcity in California.\nEmail: sandysum@ucsb.edu\nAdvisor: Tamma Carleton\nCommittee: Chris Costello, Olivier Deschênes, Kyle Meng"
   },
   {
     "objectID": "cv/index.html",
@@ -39,7 +39,7 @@
     "href": "index.html#working-papers",
     "title": "Sandy Sum",
     "section": "Working papers",
-    "text": "Working papers\nThe distributional effects of water markets under factor-biased structural change\nSandy Sum and Anna Boser (2023)\n\nCalifornia droughts disproportionately worsen drinking water quality for Latino communities\nSum, Sandy (under review, 2023)\n\nParameter recovery with remotely sensed variables\n\nJonathan Proctor*, Tamma Carleton*, and Sandy Sum* (under review, 2023)\n\nEquitable low-carbon transition pathways for California’s oil extraction\nwith emLab (2023)\nAccepted at Nature Energy"
+    "text": "Working papers\nWater markets and labor effects\nSandy Sum and Anna Boser (2023)\n\nDroughts worsen drinking water disparities in California\nSandy Sum (2023)\n\nParameter recovery with remotely sensed variables\n\nJonathan Proctor*, Tamma Carleton*, and Sandy Sum* (under review, 2023)"
   },
   {
     "objectID": "index.html#invited-presentation-and-workshops",
@@ -75,5 +75,12 @@
     "title": "Sandy Sum",
     "section": "Works in progress",
     "text": "Works in progress\nLabor Market Impacts of Immigration Restrictions in the US\nRuth Morales*, Jimena Rico Straffron*, and Sandy Sum* (2022) \n\n(*indicates equal contribution)"
+  },
+  {
+    "objectID": "index.html#publications",
+    "href": "index.html#publications",
+    "title": "Sandy Sum",
+    "section": "Publications",
+    "text": "Publications\nWell setbacks limit California’s oil supply with larger health benefits and employment losses than excise and carbon taxes\nwith emLab (2023)\nNature Energy"
   }
 ]
