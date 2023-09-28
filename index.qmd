@@ -21,7 +21,7 @@ about:
 ::: {#about-block}
 :::
 
-I am a PhD student in economics and environmental science at the University of California, Santa Barbara.
+I am a Ph.D. candidate in economics and environmental science at the University of California, Santa Barbara.
 
 My research investigates how environmental change and policies shape and is shaped by patterns of social and economic inequalities. My recent projects have been centered on equity issues arising from water scarcity in California.
 
@@ -33,32 +33,29 @@ Committee: Chris Costello, Olivier Deschênes, Kyle Meng
 
 ## Working papers
 
-**Water markets and labor effects**
+**Water Markets and Labor Effects**
 
-<font size="2">**Sandy Sum and Anna Boser** (2023)</font>\
+<font size="2">**Sandy Sum** (2023)</font>\
 
-**Droughts worsen drinking water disparities in California**
+**Assessing the Impact of Droughts on Drinking Water Disparities in California**
 
 <font size="2">**Sandy Sum** (2023)</font>\
 
 [**Parameter recovery with remotely sensed variables**](https://www.nber.org/papers/w30861)\
 
-<font size="2">Jonathan Proctor\*, Tamma Carleton\*, and **Sandy Sum**\* (under review, 2023)</font>\
+<font size="2">Jonathan Proctor\*, Tamma Carleton\*, and **Sandy Sum**\* (In prep, 2023)</font>\
 
 ## Publications
 
 [**Well setbacks limit California’s oil supply with larger health benefits and employment losses than excise and carbon taxes**](https://www.nature.com/articles/s41560-023-01273-0)
 
-<font size="2">with [emLab](https://emlab.ucsb.edu/) (2023)</font>\
+<font size="2">with [emLab](https://emlab.ucsb.edu/) (June 2023)</font>\
+<font size="2">*Policy Brief*, Nature Energy</font>\
+
+[**Equitable low-carbon transition pathways for California’s oil extraction**](https://www.nature.com/articles/s41560-023-01259-y)
+
+<font size="2">with [emLab](https://emlab.ucsb.edu/) (May 2023)</font>\
 <font size="2">Nature Energy</font>\
-
-## Works in progress
-
-**Labor Market Impacts of Immigration Restrictions in the US**
-
-<font size="2">Ruth Morales\*, Jimena Rico Straffron\*, and Sandy Sum\* (2022) </font>\
-
-<font size="2">(\*indicates equal contribution)</font>
 
 ## Policy reports
 
