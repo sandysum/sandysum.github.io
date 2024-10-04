@@ -1,23 +1,24 @@
+#### Teaching Assistant, University of California, Santa Barbara
 
-###### Teaching Assistant, University of California, Santa Barbara
+**Master's Capstone Project Course (EDS 411A), Winter & Spring 2024**
 
-**Master's Capstone Project Course (EDS 411A), Winter & Spring 2024** 
-    <font size="2">Prof. Carmen Galaz García<font size="2">
+-   <font size="2">Prof. Carmen Galaz García<font size="2">
 
-**Economics of Environmental Management (ESM 204), 2022 & 2023**  
+**Economics of Environmental Management (ESM 204), 2022 & 2023**
 
-<font size="2">Profs. Christopher Costello and Tamma Carleton</font>
+-   <font size="2">Profs. Christopher Costello and Tamma Carleton</font>
 
-**Statistics for Environmental Data Science (EDS 222), 2022 & 2023**  
+**Statistics for Environmental Data Science (EDS 222), 2022 & 2023**
 
-<font size="2">Prof. Tamma Carleton</font>
+-   <font size="2">Prof. Tamma Carleton</font>
 
-**Environmental Economics (ECON 115), 2022**  
+**Environmental Economics (ECON 115), 2022**
 
-<font size="2">Prof. Kyle Meng</font>
+-   <font size="2">Prof. Kyle Meng</font>
 
-###### Student Q&A respondent
+#### Student Q&A respondent
 
-**BREAD-IGC Virtual PhD Course on Environmental Economics, November 2023**
+**BREAD-IGC Virtual PhD Course on Environmental Economics, November
+2023**
 
-<font size="2">Prof. Tamma Carleton</font>
+-   <font size="2">Prof. Tamma Carleton</font>
