@@ -39,6 +39,11 @@ Advisor: Tamma Carleton
 
 Committee: Chris Costello, Olivier Deschênes, Kyle Meng
 
-![Outside of work, you can probably find me climbing!](img/IMG_0925_Original.jpeg){fig-align="left" width="50%"}
+***
 
-\
+::: {#photo-block style="margin-top: 20px;"}
+<font size="2">*Outside of work, you can probably find me climbing!*<font size="2">
+
+![](img/IMG_0925_Original.jpeg){fig-align="left" width="50%"
+style="margin-right: 15px; margin-top: 10px;"}
+:::
