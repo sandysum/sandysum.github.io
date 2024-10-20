@@ -8,23 +8,23 @@ title: Research
 California
 Groundwater**](https://drive.google.com/file/d/1z2F7DWDszOYYzkxyrcM8THEc7Nt8AWsp/view)
 
-<p size="2" class = 'indented'>Sandy Sum (Job Market Paper, 2024)</p>
+<font size="2">Sandy Sum (Job Market Paper, 2024)</font>
 
 [**Parameter recovery with remotely sensed
 variables**](https://www.nber.org/papers/w30861)
 
-<p size="2" class = 'indented'>Jonathan Proctor^R^*,* Tamma Carleton^R^,
-and Sandy Sum^R^ (Under review, 2024)</p>
+<font size="2">Jonathan Proctor^R^*,* Tamma Carleton^R^, and Sandy
+Sum^R^ (Under review, 2024)</font>
 
 **Immigration Restrictions and Labor Market Outcomes: A Robust
 Replication of [Clemens et
 al](https://www.aeaweb.org/articles?id=10.1257/aer.20170765). (2018)**
 
-<p size="2" class = 'indented'> Ruth Morales^R^, Jimena
-Rico-Straffon^R^, and Sandy Sum^R^ (In prep, 2024)</p>
+<font size="2">Ruth Morales^R^, Jimena Rico-Straffon^R^, and Sandy
+Sum^R^ (In prep, 2024)</font>
 
-<p size="2">(^R^ indicates equal authorship; authors' order
-randomized)</p>
+<font size="2"> (^R^ indicates equal authorship; authors' order
+randomized) </font>
 
 ### Publications
 
@@ -32,21 +32,21 @@ randomized)</p>
 California,
 2007-2020**](https://ajph.aphapublications.org/doi/10.2105/AJPH.2024.307758)
 
-<p size="2" class = 'indented'>Sandy Sum (American Journal of Public
-Health, 2024)</p>
+<font size="2"> Sandy Sum (American Journal of Public Health, 2024)
+</font>
 
 [**Well setbacks limit California’s oil supply with larger health
 benefits and employment losses than excise and carbon
 taxes**](https://www.nature.com/articles/s41560-023-01273-0)
 
-<p size="2" class = 'indented'>Policy Brief, *Nature Energy*, with
-[emLab](https://emlab.ucsb.edu/) (June 2023)</p>
+<font size="2"> Policy Brief, *Nature Energy*, with
+[emLab](https://emlab.ucsb.edu/) (June 2023) </font>
 
 [**Equitable low-carbon transition pathways for California’s oil
 extraction**](https://www.nature.com/articles/s41560-023-01259-y)
 
-<p size="2" class = 'indented'>*Nature Energy*, with
-[emLab](https://emlab.ucsb.edu/) (May 2023)</p>
+<font size="2"> *Nature Energy*, with [emLab](https://emlab.ucsb.edu/)
+(May 2023) </font>
 
 ### Policy reports
 
@@ -54,13 +54,13 @@ extraction**](https://www.nature.com/articles/s41560-023-01259-y)
 of transportation
 fuels**](https://www.google.com/url?q=https%3A%2F%2Fwww.dropbox.com%2Fs%2F6w4hrztnb8r7xe7%2FCA-CN-Study-2-Final-Report-0421.pdf%3Fdl%3D1&sa=D&sntz=1&usg=AOvVaw3pv7JBOJLm767dL8jnrE4o)
 
-<p size="2" class = 'indented'>[CalEPA
+<font size="2"> [CalEPA
 report](https://emlab.ucsb.edu/projects/identifying-equitable-pathways-reach-carbon-neutrality-californias-transportation-sector)
-with [emLab](https://emlab.ucsb.edu/) (2021)</p>
+with [emLab](https://emlab.ucsb.edu/) (2021) </font>
 
 [**The Economics of Water: Valuing the Hydrological Cycle as a Global
 Common
 Good**](https://watercommission.org/publication/executive-summary-the-economics-of-water/)
 
-<p size="2" class = 'indented'>with the [Global Commission on the
-Economics of Water](https://watercommission.org/) (2024)</p>
+<font size="2">with the [Global Commission on the Economics of
+Water](https://watercommission.org/) (2024)</font>
