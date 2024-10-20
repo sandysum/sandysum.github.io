@@ -4,62 +4,63 @@ title: Research
 
 ### Working papers
 
-[Distributional Implications of Environmental Markets: Insights from
+[**Distributional Implications of Environmental Markets: Insights from
 California
-Groundwater](https://drive.google.com/file/d/1z2F7DWDszOYYzkxyrcM8THEc7Nt8AWsp/view)
+Groundwater**](https://drive.google.com/file/d/1z2F7DWDszOYYzkxyrcM8THEc7Nt8AWsp/view)
 
-<font size="2">Sandy Sum (Job Market Paper, 2024)</font>
+<p size="2" class = 'indented'>Sandy Sum (Job Market Paper, 2024)</p>
 
-[Parameter recovery with remotely sensed
-variables](https://www.nber.org/papers/w30861)
+[**Parameter recovery with remotely sensed
+variables**](https://www.nber.org/papers/w30861)
 
-<font size="2">Jonathan Proctor^R^*,* Tamma Carleton^R^, and Sandy
-Sum^R^ (Under review, 2024)</font>
+<p size="2" class = 'indented'>Jonathan Proctor^R^*,* Tamma Carleton^R^,
+and Sandy Sum^R^ (Under review, 2024)</p>
 
-Immigration Restrictions and Labor Market Outcomes: A Robust Replication
-of [Clemens et
-al](https://www.aeaweb.org/articles?id=10.1257/aer.20170765). (2018)
+**Immigration Restrictions and Labor Market Outcomes: A Robust
+Replication of [Clemens et
+al](https://www.aeaweb.org/articles?id=10.1257/aer.20170765). (2018)**
 
-<font size="2"> Ruth Morales^R^, Jimena Rico-Straffon^R^, and Sandy
-Sum^R^ (In prep, 2024)</font>
+<p size="2" class = 'indented'> Ruth Morales^R^, Jimena
+Rico-Straffon^R^, and Sandy Sum^R^ (In prep, 2024)</p>
 
-<font size="2">(^R^ indicates equal authorship; authors' order
-randomized)</font>
+<p size="2">(^R^ indicates equal authorship; authors' order
+randomized)</p>
 
 ### Publications
 
-[Impact of Droughts on Served Drinking Water Disparities in California,
-2007-2020](https://ajph.aphapublications.org/doi/10.2105/AJPH.2024.307758)
+[**Impact of Droughts on Served Drinking Water Disparities in
+California,
+2007-2020**](https://ajph.aphapublications.org/doi/10.2105/AJPH.2024.307758)
 
-<font size="2">Sandy Sum (American Journal of Public Health,
-2024)</font>
+<p size="2" class = 'indented'>Sandy Sum (American Journal of Public
+Health, 2024)</p>
 
-[Well setbacks limit California’s oil supply with larger health benefits
-and employment losses than excise and carbon
-taxes](https://www.nature.com/articles/s41560-023-01273-0)
+[**Well setbacks limit California’s oil supply with larger health
+benefits and employment losses than excise and carbon
+taxes**](https://www.nature.com/articles/s41560-023-01273-0)
 
-<font size="2">with [emLab](https://emlab.ucsb.edu/) (June
-2023)</font><font size="2">Policy Brief, Nature Energy</font>
+<p size="2" class = 'indented'>Policy Brief, *Nature Energy*, with
+[emLab](https://emlab.ucsb.edu/) (June 2023)</p>
 
-[Equitable low-carbon transition pathways for California’s oil
-extraction](https://www.nature.com/articles/s41560-023-01259-y)
+[**Equitable low-carbon transition pathways for California’s oil
+extraction**](https://www.nature.com/articles/s41560-023-01259-y)
 
-<font size="2">with [emLab](https://emlab.ucsb.edu/) (May
-2023)</font><font size="2">Nature Energy</font>
+<p size="2" class = 'indented'>*Nature Energy*, with
+[emLab](https://emlab.ucsb.edu/) (May 2023)</p>
 
 ### Policy reports
 
-[Enhancing equity while eliminating emissions in California's supply of
-transportation
-fuels](https://www.google.com/url?q=https%3A%2F%2Fwww.dropbox.com%2Fs%2F6w4hrztnb8r7xe7%2FCA-CN-Study-2-Final-Report-0421.pdf%3Fdl%3D1&sa=D&sntz=1&usg=AOvVaw3pv7JBOJLm767dL8jnrE4o)
+[**Enhancing equity while eliminating emissions in California's supply
+of transportation
+fuels**](https://www.google.com/url?q=https%3A%2F%2Fwww.dropbox.com%2Fs%2F6w4hrztnb8r7xe7%2FCA-CN-Study-2-Final-Report-0421.pdf%3Fdl%3D1&sa=D&sntz=1&usg=AOvVaw3pv7JBOJLm767dL8jnrE4o)
 
-<font size="2">[CalEPA
+<p size="2" class = 'indented'>[CalEPA
 report](https://emlab.ucsb.edu/projects/identifying-equitable-pathways-reach-carbon-neutrality-californias-transportation-sector)
-with [emLab](https://emlab.ucsb.edu/) (2021)</font>
+with [emLab](https://emlab.ucsb.edu/) (2021)</p>
 
-[The Economics of Water: Valuing the Hydrological Cycle as a Global
+[**The Economics of Water: Valuing the Hydrological Cycle as a Global
 Common
-Good](https://watercommission.org/publication/executive-summary-the-economics-of-water/)
+Good**](https://watercommission.org/publication/executive-summary-the-economics-of-water/)
 
-<font size="2">with the [Global Commission on the Economics of
-Water](https://watercommission.org/) (2021)</font>
+<p size="2" class = 'indented'>with the [Global Commission on the
+Economics of Water](https://watercommission.org/) (2024)</p>

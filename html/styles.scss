@@ -64,6 +64,10 @@ $btn-code-copy-color-active: $orange !default;
     color: $gray-900;
 }
 
+.indented {
+    text-indent: 32px;
+}
+
 .nav-footer {
     align-items: flex-start;  // Align all flex items to the top
     flex-wrap: wrap;
