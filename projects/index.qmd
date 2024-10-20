@@ -13,10 +13,18 @@ Groundwater](https://drive.google.com/file/d/1z2F7DWDszOYYzkxyrcM8THEc7Nt8AWsp/v
 [Parameter recovery with remotely sensed
 variables](https://www.nber.org/papers/w30861)
 
-<font size="2">Jonathan Proctor*,* Tamma Carleton, and Sandy Sum\*
-(Under review, 2024)</font>
+<font size="2">Jonathan Proctor^R^*,* Tamma Carleton^R^, and Sandy
+Sum^R^ (Under review, 2024)</font>
 
-<font size="2">(\* indicates equal authorship)</font>
+Immigration Restrictions and Labor Market Outcomes: A Robust Replication
+of [Clemens et
+al](https://www.aeaweb.org/articles?id=10.1257/aer.20170765). (2018)
+
+<font size="2"> Ruth Morales^R^, Jimena Rico-Straffon^R^, and Sandy
+Sum^R^ (In prep, 2024)</font>
+
+<font size="2">(^R^ indicates equal authorship; authors' order
+randomized)</font>
 
 ### Publications
 

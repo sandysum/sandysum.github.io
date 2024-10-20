@@ -44,8 +44,8 @@ Committee: Chris Costello, Olivier Deschênes, Kyle Meng
 ***
 
 ::: {#photo-block style="margin-top: 20px;"}
-<font size="2">*Outside of work, you can probably find me climbing!*<font size="2">
+<font size="2">*In my free time, you can probably find me climbing!*<font size="2">
 
-![](img/IMG_0925_Original.jpeg){fig-align="left" width="52%"
+![](img/IMG_0925_Original.jpeg){fig-align="left" width="58%"
 style="margin-right: 15px; margin-top: 10px;"}
 :::
