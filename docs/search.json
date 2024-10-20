@@ -2,9 +2,9 @@
   {
     "objectID": "projects/index.html",
     "href": "projects/index.html",
-    "title": "Invited presentations and workshops",
+    "title": "Research",
     "section": "",
-    "text": "UCSB Bren School Symposium (April 2021)\nInterdisciplinary PhD Workshop on Sustainable Development at Columbia University (April 2022)\nAnnual Environmental Justice Symposium at the Bren School, UCSB (May 2022)\nBerkeley/Sloan Summer School in Environmental and Energy Economics (August 2022)\nSocial Cost of Water Pollution Workshop at Cornell Atkinson Center for Sustainability & US EPA (September 2022)\nThe Workshop in Environmental Economics and Data science at the University of Oregon (October 2022)\nUCSB Bren School Symposium (April 2023)\nThe Occasional Workshop at UC Santa Barbara (April 2023)"
+    "text": "Working papers\nDistributional Implications of Environmental Markets: Insights from California Groundwater\nSandy Sum (Job Market Paper, 2024)\nParameter recovery with remotely sensed variables\nJonathan Proctor, Tamma Carleton, and Sandy Sum* (Under review, 2024)\n(* indicates equal authorship)\n\n\nPublications\nImpact of Droughts on Served Drinking Water Disparities in California, 2007-2020\nSandy Sum (American Journal of Public Health, 2024)\nWell setbacks limit California’s oil supply with larger health benefits and employment losses than excise and carbon taxes\nwith emLab (June 2023)Policy Brief, Nature Energy\nEquitable low-carbon transition pathways for California’s oil extraction\nwith emLab (May 2023)Nature Energy\n\n\nPolicy reports\nEnhancing equity while eliminating emissions in California’s supply of transportation fuels\nCalEPA report with emLab (2021)\nThe Economics of Water: Valuing the Hydrological Cycle as a Global Common Good\nwith the Global Commission on the Economics of Water (2021)"
   },
   {
     "objectID": "projects/index.html#the-history-of-the-war-of-the-ring",
@@ -25,7 +25,7 @@
     "href": "index.html",
     "title": "Sandy Sum",
     "section": "",
-    "text": "I am a Ph.D. candidate in economics and environmental science at the University of California, Santa Barbara.\nMy research investigates how environmental change and policies shape and are shaped by patterns of social and economic inequalities. My recent projects have focused on quantifying the distributional outcomes of water scarcity and regulation in California.\nI will be on the job market in AY 2024-2025.\nEmail: sandysum@ucsb.edu\nAdvisor: Tamma Carleton\nCommittee: Chris Costello, Olivier Deschênes, Kyle Meng"
+    "text": "I am a Ph.D. candidate in economics and environmental science at the University of California, Santa Barbara.\nMy research investigates how environmental change and policies shape and are shaped by patterns of social and economic inequalities. My recent projects have focused on quantifying the distributional outcomes of water scarcity and regulation in California.\nI will be on the job market in AY 2024-2025.\nEmail: sandysum@ucsb.edu\nAdvisor: Tamma Carleton\nCommittee: Chris Costello, Olivier Deschênes, Kyle Meng\n\n\n\nOutside of work, you can probably find me climbing!"
   },
   {
     "objectID": "cv/index.html",
@@ -82,5 +82,19 @@
     "title": "Sandy Sum",
     "section": "Publications",
     "text": "Publications\nImpact of Droughts on Served Drinking Water Disparities in California, 2007-2020\n\nSandy Sum (American Journal of Public Health, 2024)\n\nWell setbacks limit California’s oil supply with larger health benefits and employment losses than excise and carbon taxes\nwith emLab (June 2023)\nPolicy Brief, Nature Energy\n\nEquitable low-carbon transition pathways for California’s oil extraction\nwith emLab (May 2023)\nNature Energy"
+  },
+  {
+    "objectID": "projects/index.html#publications",
+    "href": "projects/index.html#publications",
+    "title": "Research",
+    "section": "Publications",
+    "text": "Publications\nImpact of Droughts on Served Drinking Water Disparities in California, 2007-2020\nSandy Sum (American Journal of Public Health, 2024)\nWell setbacks limit California’s oil supply with larger health benefits and employment losses than excise and carbon taxes\nwith emLab (June 2023)Policy Brief, Nature Energy\nEquitable low-carbon transition pathways for California’s oil extraction\nwith emLab (May 2023)Nature Energy"
+  },
+  {
+    "objectID": "projects/index.html#policy-reports",
+    "href": "projects/index.html#policy-reports",
+    "title": "Research",
+    "section": "Policy reports",
+    "text": "Policy reports\nEnhancing equity while eliminating emissions in California’s supply of transportation fuels\nCalEPA report with emLab (2021)\nThe Economics of Water: Valuing the Hydrological Cycle as a Global Common Good\nwith the Global Commission on the Economics of Water (2021)"
   }
 ]

@@ -1,14 +1,57 @@
 ---
-title: Invited presentations and workshops
+title: Research
 ---
 
-## Invited Presentation and Workshops
+### Working papers
 
--   UCSB Bren School Symposium (April 2021)
--   Interdisciplinary PhD Workshop on Sustainable Development at Columbia University (April 2022)
--   Annual Environmental Justice Symposium at the Bren School, UCSB (May 2022)
--   Berkeley/Sloan Summer School in Environmental and Energy Economics (August 2022)
--   Social Cost of Water Pollution Workshop at Cornell Atkinson Center for Sustainability & US EPA (September 2022)
--   The Workshop in Environmental Economics and Data science at the University of Oregon (October 2022)
--   UCSB Bren School Symposium (April 2023)
--   The Occasional Workshop at UC Santa Barbara (April 2023)
+[Distributional Implications of Environmental Markets: Insights from
+California
+Groundwater](https://drive.google.com/file/d/1z2F7DWDszOYYzkxyrcM8THEc7Nt8AWsp/view)
+
+<font size="2">Sandy Sum (Job Market Paper, 2024)</font>
+
+[Parameter recovery with remotely sensed
+variables](https://www.nber.org/papers/w30861)
+
+<font size="2">Jonathan Proctor*,* Tamma Carleton, and Sandy Sum\*
+(Under review, 2024)</font>
+
+<font size="2">(\* indicates equal authorship)</font>
+
+### Publications
+
+[Impact of Droughts on Served Drinking Water Disparities in California,
+2007-2020](https://ajph.aphapublications.org/doi/10.2105/AJPH.2024.307758)
+
+<font size="2">Sandy Sum (American Journal of Public Health,
+2024)</font>
+
+[Well setbacks limit California’s oil supply with larger health benefits
+and employment losses than excise and carbon
+taxes](https://www.nature.com/articles/s41560-023-01273-0)
+
+<font size="2">with [emLab](https://emlab.ucsb.edu/) (June
+2023)</font><font size="2">Policy Brief, Nature Energy</font>
+
+[Equitable low-carbon transition pathways for California’s oil
+extraction](https://www.nature.com/articles/s41560-023-01259-y)
+
+<font size="2">with [emLab](https://emlab.ucsb.edu/) (May
+2023)</font><font size="2">Nature Energy</font>
+
+### Policy reports
+
+[Enhancing equity while eliminating emissions in California's supply of
+transportation
+fuels](https://www.google.com/url?q=https%3A%2F%2Fwww.dropbox.com%2Fs%2F6w4hrztnb8r7xe7%2FCA-CN-Study-2-Final-Report-0421.pdf%3Fdl%3D1&sa=D&sntz=1&usg=AOvVaw3pv7JBOJLm767dL8jnrE4o)
+
+<font size="2">[CalEPA
+report](https://emlab.ucsb.edu/projects/identifying-equitable-pathways-reach-carbon-neutrality-californias-transportation-sector)
+with [emLab](https://emlab.ucsb.edu/) (2021)</font>
+
+[The Economics of Water: Valuing the Hydrological Cycle as a Global
+Common
+Good](https://watercommission.org/publication/executive-summary-the-economics-of-water/)
+
+<font size="2">with the [Global Commission on the Economics of
+Water](https://watercommission.org/) (2021)</font>

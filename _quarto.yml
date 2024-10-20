@@ -15,10 +15,10 @@ website:
     
     # your sub-pages
     left:
+      - text: "Research"
+        href: projects/index.qmd
       - text: "teaching"
         href: teaching/index.qmd
-      # - text: "Photography"
-      #   href: photography/index.qmd
       - text: "CV"
         href: cv/index.qmd
     
