@@ -24,7 +24,7 @@ about:
 I am a Ph.D. candidate in economics and environmental science at the
 University of California, Santa Barbara.
 
-My research investigates how <u>environmental change</u> and policies
+My research investigates how <u>environmental change and policies</u>
 shape and are shaped by patterns of <u>social and economic
 inequalities</u>. My recent projects have focused on quantifying the
 distributional outcomes of <u>water scarcity and regulation</u> in

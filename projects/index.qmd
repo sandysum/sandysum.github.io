@@ -2,30 +2,6 @@
 title: Research
 ---
 
-### Working papers
-
-[**Distributional Implications of Environmental Markets: Insights from
-California
-Groundwater**](https://drive.google.com/file/d/1z2F7DWDszOYYzkxyrcM8THEc7Nt8AWsp/view)
-
-<font size="2">Sandy Sum (Job Market Paper, 2024)</font>
-
-[**Parameter recovery with remotely sensed
-variables**](https://www.nber.org/papers/w30861)
-
-<font size="2">Jonathan Proctor^R^*,* Tamma Carleton^R^, and Sandy
-Sum^R^ (Under review, 2024)</font>
-
-**Immigration Restrictions and Labor Market Outcomes: A Robust
-Replication of [Clemens et
-al](https://www.aeaweb.org/articles?id=10.1257/aer.20170765). (2018)**
-
-<font size="2">Ruth Morales^R^, Jimena Rico-Straffon^R^, and Sandy
-Sum^R^ (In prep, 2024)</font>
-
-<font size="2"> (^R^ indicates equal authorship; authors' order
-randomized) </font>
-
 ### Publications
 
 [**Impact of Droughts on Served Drinking Water Disparities in
@@ -47,6 +23,36 @@ extraction**](https://www.nature.com/articles/s41560-023-01259-y)
 
 <font size="2"> *Nature Energy*, with [emLab](https://emlab.ucsb.edu/)
 (May 2023) </font>
+
+### Working papers
+
+[**Trading Water and Work: Labor and Production Shifts under California
+Groundwater
+Markets**](https://drive.google.com/file/d/1z2F7DWDszOYYzkxyrcM8THEc7Nt8AWsp/view)
+
+<font size="2">Sandy Sum (Job Market Paper, 2024)</font>
+
+[**Parameter recovery with remotely sensed
+variables**](https://www.nber.org/papers/w30861)
+
+<font size="2">Jonathan Proctor^R^*,* Tamma Carleton^R^, and Sandy
+Sum^R^ (Under review, 2024)</font>
+
+<font size="2"> (^R^ indicates equal authorship; authors' order
+randomized) </font>
+
+### Selected Works in Progress
+
+**Global Unequal Economic Dependency on Atmospheric Moisture Recycling**
+<font size="2">(with Tamma Carleton and Ram Fishman)</font>
+
+**The Health Impacts of Agricultural Land Use Change in California’s
+Central Valley** <font size="2">(with Anna Boser)</font>
+
+**Immigration Restrictions and Labor Market Outcomes: A Robust
+Replication of [Clemens et
+al](https://www.aeaweb.org/articles?id=10.1257/aer.20170765). (2018)**
+<font size="2">(with Jimena Rico-Straffon and Ruth Morales)</font>
 
 ### Policy reports
 
