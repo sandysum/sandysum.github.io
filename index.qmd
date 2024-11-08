@@ -21,8 +21,8 @@ about:
 ::: {#about-block}
 :::
 
-I am a Ph.D. candidate in Economics and Environmental Science at the
-University of California, Santa Barbara.
+I am a Ph.D. candidate in Economics and Environmental Science at the University of California, Santa Barbara. <strong style="font-weight: 900;font-size: 1.0em;">I will be on the job
+market in AY 2024-2025.</strong>
 
 My research investigates how <u>environmental change and policies</u> shape and are shaped by patterns of <u>social and economic
 inequalities</u>. I combine new data with economic theory, empirical methods, and natural science to examine these interactions. My recent projects have focused on quantifying the social equity outcomes of <u>water scarcity and regulation</u> in California.
@@ -30,9 +30,6 @@ inequalities</u>. I combine new data with economic theory, empirical methods, an
 My [job market paper](https://drive.google.com/file/d/1z2F7DWDszOYYzkxyrcM8THEc7Nt8AWsp/view) is the first to comprehensively evaluate the efficiency and reallocative impacts of policy counterfactuals under the [Sustainable Groundwater Management Act](https://water.ca.gov/programs/groundwater-management/sgma-groundwater-management), using restricted-access farm-level data.
 
 Originally from Singapore, I am trilingual and hold a Bachelor's degree in Economics from the National University of Singapore, as well as a Master's degree in Economics from the University of California, Santa Barbara. Before starting my Ph.D. program, I worked as a research analyst at the Global Policy Lab at the University of California, Berkeley, under the guidance of Professor Solomon Hsiang.
-
-<strong style="font-weight: bold;"><font size="4">I will be on the job
-market in AY 2024-2025.</strong></font>
 
 Email: [sandysum\@ucsb.edu](mailto:sandysum@ucsb.edu)
 
