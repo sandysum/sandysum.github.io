@@ -2,7 +2,7 @@
 about:
   template: jolla
   id: about-block
-  image: "img/ss.png"
+  image: "img/sandysum2025.png"
   # links:
   #   - icon: twitter
   #     text: Twitter
@@ -24,8 +24,9 @@ about:
 I am a Ph.D. candidate in Economics and Environmental Science at the University of California, Santa Barbara. <strong style="font-weight: 900;font-size: 1.0em;">I will be on the job
 market in AY 2024-2025.</strong>
 
-My research investigates how <u>environmental change and policies</u> shape and are shaped by patterns of <u>social and economic
-inequalities</u>. I combine new data with economic theory, empirical methods, and natural science to examine these interactions. My recent projects have focused on quantifying the social equity outcomes of <u>water scarcity and regulation</u> in California.
+My research investigates how environmental change and policies shape and are shaped by patterns of <u>socioeconomic and environmental inequalities</u> in the context of <u>water resources and management</u>. 
+I integrate new data, economic and natural science theories, and econometric methods to analyze these interactions. 
+My recent projects focus on quantifying the social equity outcomes of water scarcity and regulation in California.
 
 My [job market paper](https://drive.google.com/file/d/1z2F7DWDszOYYzkxyrcM8THEc7Nt8AWsp/view) is the first to comprehensively evaluate the efficiency and reallocative impacts of policy counterfactuals under the [Sustainable Groundwater Management Act](https://water.ca.gov/programs/groundwater-management/sgma-groundwater-management), using restricted-access farm-level data.
 
@@ -37,6 +38,7 @@ Advisor: Tamma Carleton
 
 Committee: Kyle Meng, Olivier Deschênes, Chris Costello
 
+Natural science advisor: Ashley Larsen
 
 ***
 

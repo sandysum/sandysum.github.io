@@ -8,8 +8,8 @@ title: Research
 California,
 2007-2020**](https://ajph.aphapublications.org/doi/10.2105/AJPH.2024.307758)
 
-<font size="2"> Sandy Sum (American Journal of Public Health, 2024)
-</font>
+<font size="2"> Sandy Sum, *American Journal of Public Health*
+(September 2024) </font>
 
 [**Well setbacks limit California’s oil supply with larger health
 benefits and employment losses than excise and carbon
@@ -36,24 +36,27 @@ Markets**](https://drive.google.com/file/d/1z2F7DWDszOYYzkxyrcM8THEc7Nt8AWsp/vie
 variables**](https://www.nber.org/papers/w30861)
 
 <font size="2">Jonathan Proctor^R^*,* Tamma Carleton^R^, and Sandy
-Sum^R^ (Under review, 2024)</font>
+Sum^R^ (Revisions requested at *Journal of the Association of
+Environmental and Resource Economists*)</font>
 
 <font size="2"> (^R^ indicates equal authorship; authors' order
 randomized) </font>
 
-### Selected Works in Progress
-
 **The Unequal Economic Risks and Opportunities of Global Atmospheric
-Moisture Recycling** <font size="2">(with Tamma Carleton and Ram
+Moisture Recycling** <font size="2">(In prep with Tamma Carleton and Ram
 Fishman)</font>
 
-**The Health Impacts of Agricultural Land Use Change in California’s
-Central Valley** <font size="2">(with Anna Boser)</font>
+### Selected Works in Progress
 
-**Immigration Restrictions and Labor Market Outcomes: A Robust
-Replication of [Clemens et
-al](https://www.aeaweb.org/articles?id=10.1257/aer.20170765). (2018)**
-<font size="2">(with Jimena Rico-Straffon and Ruth Morales)</font>
+**Parched Lands, Polluted Air: Respiratory Health Impacts of
+Agricultural Water Savings** <font size="2">(with Anna Boser)</font>
+
+**Risk-Return Tradeoffs of Small Farms under Increased Climate
+Variability** <font size="2">(with Olivier Deschênes and Bryan
+Leonard)</font>
+
+**Tracking Agricultural Return Flows: Implications for Satellite-Based
+Water Monitoring** <font size="2">(with Anna Boser)</font>
 
 ### Policy reports
 
