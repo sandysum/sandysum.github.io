@@ -21,7 +21,7 @@ about:
 ::: {#about-block}
 :::
 
-I am a Ph.D. candidate in Economics and Environmental Science at the University of California, Santa Barbara. I will join the Department of Agriculture & Resource Economics University of California, Davis as a [UC President’s Postdoctoral Fellow](https://ppfp.ucop.edu/info/about-ppfp/) in Fall 2025.
+I am a Ph.D. candidate in Economics and Environmental Science at the University of California, Santa Barbara. I will join the Department of Agricultural & Resource Economics -- University of California, Davis as a [UC President’s Postdoctoral Fellow](https://ppfp.ucop.edu/info/about-ppfp/) in Fall 2025.
 
 My research investigates how environmental change and policies shape and are shaped by patterns of <u>socioeconomic and environmental inequalities</u> in the context of <u>water resources and management</u>. 
 I integrate new data, economic and natural science theories, and econometric methods to analyze these interactions. 
