@@ -49,11 +49,15 @@ Fishman)</font>
 ### Selected Works in Progress
 
 **Parched Lands, Polluted Air: Respiratory Health Impacts of
-Agricultural Water Savings** <font size="2">(with Anna Boser)</font>
+Agricultural Water Savings** <font size="2">(with Katrina Jessoe and
+Anna Boser)</font>
 
 **Risk-Return Tradeoffs of Small Farms under Increased Climate
 Variability** <font size="2">(with Olivier Deschênes and Bryan
 Leonard)</font>
+
+**The 2006 Final Arsenic Rule and Infant Health Outcomes**
+<font size="2">(with Shan Zhang)</font>
 
 **Tracking Agricultural Return Flows: Implications for Satellite-Based
 Water Monitoring** <font size="2">(with Anna Boser)</font>
