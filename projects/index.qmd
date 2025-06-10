@@ -4,77 +4,60 @@ title: Research
 
 ### Publications
 
-[**Impact of Droughts on Served Drinking Water Disparities in
-California,
-2007-2020**](https://ajph.aphapublications.org/doi/10.2105/AJPH.2024.307758)
+[**Impact of Droughts on Served Drinking Water Disparities in California, 2007-2020**](https://ajph.aphapublications.org/doi/10.2105/AJPH.2024.307758)
 
 <font size="2"> Sandy Sum, *American Journal of Public Health*
 (September 2024) </font>
 
-[**Well setbacks limit California’s oil supply with larger health
-benefits and employment losses than excise and carbon
-taxes**](https://www.nature.com/articles/s41560-023-01273-0)
+[**Well setbacks limit California’s oil supply with larger health benefits and employment losses than excise and carbon taxes**](https://www.nature.com/articles/s41560-023-01273-0)
 
 <font size="2"> Policy Brief, *Nature Energy*, with
 [emLab](https://emlab.ucsb.edu/) (June 2023) </font>
 
-[**Equitable low-carbon transition pathways for California’s oil
-extraction**](https://www.nature.com/articles/s41560-023-01259-y)
+[**Equitable low-carbon transition pathways for California’s oil extraction**](https://www.nature.com/articles/s41560-023-01259-y)
 
 <font size="2"> *Nature Energy*, with [emLab](https://emlab.ucsb.edu/)
 (May 2023) </font>
 
 ### Working papers
 
-[**Trading Water and Work: Labor and Production Shifts under
-California's Groundwater
-Markets**](https://drive.google.com/file/d/1z2F7DWDszOYYzkxyrcM8THEc7Nt8AWsp/view)
+**Trading Water and Work: Labor and Production Shifts under California's Groundwater Markets**
+<!-- [**Trading Water and Work: Labor and Production Shifts under -->
+<!-- California's Groundwater -->
+<!-- Markets**](https://drive.google.com/file/d/1z2F7DWDszOYYzkxyrcM8THEc7Nt8AWsp/view) -->
 
-<font size="2">Sandy Sum (Job Market Paper, 2024)</font>
+<font size="2">Sandy Sum (In prep)</font>
 
-[**Parameter recovery with remotely sensed
-variables**](https://www.nber.org/papers/w30861)
+[**Parameter recovery with remotely sensed variables**](https://www.nber.org/papers/w30861)
 
-<font size="2">Jonathan Proctor^R^*,* Tamma Carleton^R^, and Sandy
-Sum^R^ (Revisions requested at *Journal of the Association of
-Environmental and Resource Economists*)</font>
+<font size="2">Jonathan Proctor^R^*,* Tamma Carleton^R^, and Sandy Sum^R^ (Revisions requested at *Journal of the Association of Environmental and Resource Economists*)</font>
 
 <font size="2"> (^R^ indicates equal authorship; authors' order
 randomized) </font>
 
-**The Unequal Economic Risks and Opportunities of Global Atmospheric
-Moisture Recycling** <font size="2">(In prep with Tamma Carleton and Ram
+**The Unequal Economic Risks of Global Terrestrial Moisture Recycling** <font size="2">(In prep with Tamma Carleton and Ram
 Fishman)</font>
 
 ### Selected Works in Progress
 
-**Parched Lands, Polluted Air: Respiratory Health Impacts of
-Agricultural Water Savings** <font size="2">(with Katrina Jessoe and
+**Parched Lands, Polluted Air: Respiratory Health Impacts of Agricultural Water Savings** <font size="2">(with Katrina Jessoe and
 Anna Boser)</font>
 
-**Risk-Return Tradeoffs of Small Farms under Increased Climate
-Variability** <font size="2">(with Olivier Deschênes and Bryan
+**Risk-Return Tradeoffs of Small Farms under Increased Climate Variability** <font size="2">(with Olivier Deschênes and Bryan
 Leonard)</font>
 
 **The 2006 Final Arsenic Rule and Infant Health Outcomes**
 <font size="2">(with Shan Zhang)</font>
 
-**Tracking Agricultural Return Flows: Implications for Satellite-Based
-Water Monitoring** <font size="2">(with Anna Boser)</font>
+<!-- **Tracking Agricultural Return Flows: Implications for Satellite-Based -->
+<!-- Water Monitoring** <font size="2">(with Anna Boser)</font> -->
 
 ### Policy reports
 
-[**Enhancing equity while eliminating emissions in California's supply
-of transportation
-fuels**](https://www.google.com/url?q=https%3A%2F%2Fwww.dropbox.com%2Fs%2F6w4hrztnb8r7xe7%2FCA-CN-Study-2-Final-Report-0421.pdf%3Fdl%3D1&sa=D&sntz=1&usg=AOvVaw3pv7JBOJLm767dL8jnrE4o)
+[**Enhancing equity while eliminating emissions in California's supply of transportation fuels**](https://www.google.com/url?q=https%3A%2F%2Fwww.dropbox.com%2Fs%2F6w4hrztnb8r7xe7%2FCA-CN-Study-2-Final-Report-0421.pdf%3Fdl%3D1&sa=D&sntz=1&usg=AOvVaw3pv7JBOJLm767dL8jnrE4o)
 
-<font size="2"> [CalEPA
-report](https://emlab.ucsb.edu/projects/identifying-equitable-pathways-reach-carbon-neutrality-californias-transportation-sector)
-with [emLab](https://emlab.ucsb.edu/) (2021) </font>
+<font size="2"> [CalEPA report](https://emlab.ucsb.edu/projects/identifying-equitable-pathways-reach-carbon-neutrality-californias-transportation-sector) with [emLab](https://emlab.ucsb.edu/) (2021) </font>
 
-[**The Economics of Water: Valuing the Hydrological Cycle as a Global
-Common
-Good**](https://watercommission.org/publication/executive-summary-the-economics-of-water/)
+[**The Economics of Water: Valuing the Hydrological Cycle as a Global Common Good**](https://watercommission.org/publication/executive-summary-the-economics-of-water/)
 
-<font size="2">with the [Global Commission on the Economics of
-Water](https://watercommission.org/) (2024)</font>
+<font size="2">with the [Global Commission on the Economics of Water](https://watercommission.org/) (2024)</font>
