@@ -23,22 +23,16 @@ about:
 
 <!-- I am a Ph.D. candidate in Economics and Environmental Science at the University of California, Santa Barbara. -->
 
-I am an incoming [UC President’s Postdoctoral Fellow](https://ppfp.ucop.edu/info/about-ppfp/) in the Department of Agricultural and Resource Economics at the University of California, Davis.
+I am a [UC President’s Postdoctoral Fellow](https://ppfp.ucop.edu/info/) in the Department of Agricultural and Resource Economics at the University of California, Davis.
 
 My research investigates how environmental change and policies shape and are shaped by patterns of <u>socioeconomic and environmental inequalities</u> in the context of <u>water resources and management</u>. 
-I integrate new data, economic and natural science theories, and econometric methods to analyze these interactions. 
+I combine natural science and rich geospatial and administrative datasets with economic theory and empirical methods to analyze these interactions. 
 My recent projects focus on quantifying the social equity outcomes of water scarcity and regulation in California.
 <!-- My [job market paper](https://drive.google.com/file/d/1z2F7DWDszOYYzkxyrcM8THEc7Nt8AWsp/view) is the first to comprehensively evaluate the efficiency and reallocative impacts of policy counterfactuals under the [Sustainable Groundwater Management Act](https://water.ca.gov/programs/groundwater-management/sgma-groundwater-management), using restricted-access farm-level data. -->
 
 Originally from Singapore, I hold a Bachelor's degree in Economics from the National University of Singapore, as well as a Master's degree in Economics from the University of California, Santa Barbara. Before starting my Ph.D. program, I worked as a research analyst at the Global Policy Lab at the University of California, Berkeley, under the guidance of Professor Solomon Hsiang.
 
-Email: [sandysum\@ucsb.edu](mailto:sandysum@ucsb.edu)
-
-Advisor: Tamma Carleton
-
-Committee: Kyle Meng, Olivier Deschênes, Chris Costello
-
-Natural science advisor: Ashley Larsen
+Email: [sandysum\@ucdavis.edu](mailto:sandysum@ucdavis.edu)
 
 ***
 
