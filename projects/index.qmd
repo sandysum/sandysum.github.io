@@ -21,10 +21,18 @@ title: Research
 
 ### Working papers
 
+**Who Gains from Drinking Water Regulation? Evidence from the 2006 Arsenic Rule and Infant Health**
+
+<font size="2">Sandy Sum and Shan Zhang (Submitted, 2025)</font>
+
+**The Unequal Economic Risks of Global Terrestrial Moisture Recycling** 
+
+<font size="2">Sandy Sum, Lauren S. Andersen, Richard Damania, Simon Fahrlander, Johan Rockstrom, Tamma Carleton, and Ram Fishman (In prep, 2025)</font>
+
 <!-- **Trading Water and Work: Labor and Production Shifts under California's Groundwater Markets** -->
 [**Trading Water and Work: Labor and Production Shifts under California's Groundwater Markets**](https://drive.google.com/file/d/1z2F7DWDszOYYzkxyrcM8THEc7Nt8AWsp/view)
 
-<font size="2">Sandy Sum (In prep)</font>
+<font size="2">Sandy Sum (In prep, 2025)</font>
 
 [**Parameter recovery with remotely sensed variables**](https://www.nber.org/papers/w30861)
 
@@ -33,13 +41,7 @@ title: Research
 <font size="2"> (^R^ indicates equal authorship; authors' order
 randomized) </font>
 
-**The Unequal Economic Risks of Global Terrestrial Moisture Recycling** <font size="2">(In prep with Tamma Carleton and Ram
-Fishman)</font>
-
 ### Selected Works in Progress
-
-**Who Gains from Drinking Water Regulation? Evidence from the 2006 Arsenic Rule and Infant Health**
-<font size="2">(with Shan Zhang)</font>
 
 **Farm Size and Climate Vulnerability** <font size="2">(with Olivier Deschênes and Bryan
 Leonard)</font>
