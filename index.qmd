@@ -27,10 +27,10 @@ I am a [UC President’s Postdoctoral Fellow](https://ppfp.ucop.edu/info/) in th
 
 My research investigates how environmental change and policies shape and are shaped by patterns of <u>socioeconomic and environmental inequality</u>.
 I combine natural science and rich geospatial and administrative data with economic theory and empirical methods to analyze these interactions. 
-My recent projects focus on quantifying the equity implications of <u>water scarcity and regulation</u> in California.
+My recent work quantifies the distributional and welfare impacts of <u>water scarcity and regulation</u> in both household and agricultural settings.
 <!-- My [job market paper](https://drive.google.com/file/d/1z2F7DWDszOYYzkxyrcM8THEc7Nt8AWsp/view) is the first to comprehensively evaluate the efficiency and reallocative impacts of policy counterfactuals under the [Sustainable Groundwater Management Act](https://water.ca.gov/programs/groundwater-management/sgma-groundwater-management), using restricted-access farm-level data. -->
 
-Originally from Singapore, I hold a Bachelor's degree in Economics from the National University of Singapore, as well as a Master's degree in Economics from the University of California, Santa Barbara. Before starting my Ph.D. program, I worked as a research analyst at the Global Policy Lab at the University of California, Berkeley, under the guidance of Professor Solomon Hsiang.
+<!-- Originally from Singapore, I hold a Bachelor's degree in Economics from the National University of Singapore, as well as a Master's degree in Economics from the University of California, Santa Barbara. Prior to the Ph.D. program, I was a pre-doctoral fellow at the Global Policy Lab at the University of California, Berkeley, under the guidance of Professor Solomon Hsiang. -->
 
 Email: [sandysum\@ucdavis.edu](mailto:sandysum@ucdavis.edu)
 
