@@ -18,8 +18,8 @@ about:
   #     href: "mailto:sandysum"  
 ---
 
-::: {#about-block}
-:::
+<!-- ::: {#about-block} -->
+::: {style="text-align: left; max-width: 700px; margin: auto;"}
 
 <!-- I am a Ph.D. candidate in Economics and Environmental Science at the University of California, Santa Barbara. -->
 
@@ -30,10 +30,11 @@ I combine natural science and rich geospatial and administrative data with econo
 My recent work quantifies the distributional and welfare impacts of <u>water scarcity and regulation</u> in both household and agricultural settings.
 <!-- My [job market paper](https://drive.google.com/file/d/1z2F7DWDszOYYzkxyrcM8THEc7Nt8AWsp/view) is the first to comprehensively evaluate the efficiency and reallocative impacts of policy counterfactuals under the [Sustainable Groundwater Management Act](https://water.ca.gov/programs/groundwater-management/sgma-groundwater-management), using restricted-access farm-level data. -->
 
-<!-- Originally from Singapore, I hold a Bachelor's degree in Economics from the National University of Singapore, as well as a Master's degree in Economics from the University of California, Santa Barbara. Prior to the Ph.D. program, I was a pre-doctoral fellow at the Global Policy Lab at the University of California, Berkeley, under the guidance of Professor Solomon Hsiang. -->
+Originally from Singapore, I hold bachelor’s degree in Economics from the National University of Singapore and a Ph.D. in Economics \& Environmental Science from the University of California, Santa Barbara, where I was advised by [Tamma Carleton](https://www.tammacarleton.com/).
+Prior to my doctoral studies, I was a pre-doctoral fellow at the Global Policy Lab at the University of California, Berkeley, under the guidance of [Solomon Hsiang](https://www.solomonhsiang.com/).
 
 Email: [sandysum\@ucdavis.edu](mailto:sandysum@ucdavis.edu)
-
+:::
 ***
 
 ::: {#photo-block style="margin-top: 20px;"}
