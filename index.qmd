@@ -25,9 +25,7 @@ about:
 
 I am a [UC President’s Postdoctoral Fellow](https://ppfp.ucop.edu/info/) in the Department of Agricultural and Resource Economics at the University of California, Davis.
 
-My research investigates how environmental change and policies shape and are shaped by patterns of <u>socioeconomic and environmental inequality</u>.
-I combine natural science and rich geospatial and administrative data with economic theory and empirical methods to analyze these interactions. 
-My recent work quantifies the distributional and welfare impacts of <u>water scarcity and regulation</u> in both household and agricultural settings.
+My research is at the intersection of agricultural and environmental economics, with a focus on the distributional impacts of water scarcity and management. My work combines novel data sources – such as remote sensing, environmental models, and farm-level census data – with tools from public economics and applied microeconomics to guide the design of more effective and feasible policies.
 <!-- My [job market paper](https://drive.google.com/file/d/1z2F7DWDszOYYzkxyrcM8THEc7Nt8AWsp/view) is the first to comprehensively evaluate the efficiency and reallocative impacts of policy counterfactuals under the [Sustainable Groundwater Management Act](https://water.ca.gov/programs/groundwater-management/sgma-groundwater-management), using restricted-access farm-level data. -->
 
 Originally from Singapore, I hold a bachelor’s degree in Economics from the National University of Singapore and a Ph.D. in Economics \& Environmental Science from the University of California, Santa Barbara, where I was advised by [Tamma Carleton](https://www.tammacarleton.com/).
