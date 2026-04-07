@@ -4,6 +4,10 @@ title: Research
 
 ### Publications
 
+[**Parameter recovery with remotely sensed variables**](https://www.nber.org/papers/w30861)
+
+<font size="2">Jonathan Proctor^R^*,* Tamma Carleton^R^, and Sandy Sum^R^, conditionally accepted at *Journal of the Association of Environmental and Resource Economists*, author order randomized (March 2026)</font>
+
 [**Impact of Droughts on Served Drinking Water Disparities in California, 2007-2020**](https://ajph.aphapublications.org/doi/10.2105/AJPH.2024.307758)
 
 <font size="2"> Sandy Sum, *American Journal of Public Health*
@@ -25,7 +29,7 @@ title: Research
 [**Trading Water and Work: Labor and Production Shifts under Agricultural Groundwater Markets**](https://drive.google.com/file/d/1z2F7DWDszOYYzkxyrcM8THEc7Nt8AWsp/view)
 <!-- **Reallocative Impacts of Environmental Markets**^+^ -->
 
-<font size="2">Sandy Sum (Under review)</font>
+<font size="2">Sandy Sum (In prep)</font>
 
 **The Unequal Economic Risks of Global Terrestrial Moisture Recycling** 
 
@@ -35,15 +39,6 @@ title: Research
 
 <font size="2">Sandy Sum and Shan Zhang (Under review)</font>
 
-[**Parameter recovery with remotely sensed variables**](https://www.nber.org/papers/w30861)
-
-<font size="2">Jonathan Proctor^R^*,* Tamma Carleton^R^, and Sandy Sum^R^ (Revisions requested at *Journal of the Association of Environmental and Resource Economists*)</font>
-
-***
-
-<font size="2"> ^R^ indicates equal authorship; authors' order
-randomized </font>
-
 <!-- <font size="2"> ^+^ previously circulated as *Trading Water and Work: Labor and Production Shifts under California's Groundwater Markets* </font> -->
 
 ### Selected Works in Progress
@@ -51,7 +46,7 @@ randomized </font>
 **Farm Size and Climate Vulnerability** <font size="2">(with Olivier Deschênes and Bryan
 Leonard)</font>
 
-**Parched Lands, Polluted Air: Respiratory Health Impacts of Agricultural Water Scarcity** <font size="2">(with Katrina Jessoe)</font>
+**Respiratory Health Impacts of Agricultural Water Scarcity and Redistribution** <font size="2">(with Katrina Jessoe)</font>
 
 <!-- **Tracking Agricultural Return Flows: Implications for Satellite-Based -->
 <!-- Water Monitoring** <font size="2">(with Anna Boser)</font> -->
